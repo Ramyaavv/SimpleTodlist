@@ -1,0 +1,30 @@
+body{
+    background-color:cornsilk;
+}
+#container{
+    background-color: rgba(6, 2, 18, 0.938);
+    width: 350px;
+    height:450px;
+    color: cornsilk;
+    margin:200px auto;  
+    
+}
+#name{
+    text-align: center;
+    padding-top: 40px;
+}
+#inp{
+    
+    margin-left: 20px;
+    height:30px;
+    width:220px;
+    margin-top: 10px;;
+}
+#butt{
+    width:60px;
+    height:40px;
+    background-color:cornsilk;
+    color: black;
+    
+}
+    
